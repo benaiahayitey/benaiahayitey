@@ -5,6 +5,6 @@
 - 📫 How to reach me Email: benaiahayitey@gmail.com or Whatsapp: +233256651786
 
 <!---
-benaiahayitey/benaiahayitey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lucasayetay/benaiahayitey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
